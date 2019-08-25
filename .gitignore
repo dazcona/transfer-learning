@@ -5,3 +5,7 @@
 **/__pycache__
 **/env/
 **/.vscode/
+datasets/*/hdf5/*
+!datasets/*/hdf5/.gitkeep
+models/*
+!models/.gitkeep
